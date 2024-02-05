@@ -1,8 +1,9 @@
 import streamlit
 
-streamlit.title('A Silly Little Project')
+streamlit.title('My Parents' Healthy New Diner')
 
-streamlit.header('Oh, what a silly little project')
-streamlit.text('Lorem ipsum dolor sit amet, consectetuer adipiscing elit.')
-streamlit.text('Maecenas porttitor congue massa.')
-streamlit.text('Fusce posuere, magna sed pulvinar ultricies.')
+streamlit.header('Breakfast Favourites')
+streamlit.text('🥣 Omega3 & Blueberry Oatmeal')
+streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔 Hard-boiled Free-range Egg')
+streamlit.text('🥑🍞'Avocado Toast')
